@@ -1,4 +1,4 @@
-# RSP1.1-Laser-Cutting-Drawings
+# RSP1.1 Laser Cutting Drawings
 Laser cutting drawings for the 6 arm maze to go along with Saathoff et al manuscript. Note that this flat-pack is optimized for making 4 copies of the maze simultaneously, and that formatting is set up for use with ULS laser cutters.
 
 ## Cut List

@@ -20,7 +20,7 @@ Use this table to determine which drawings to cut from which sheets
 | J | 1/16" | Clear | Large | 0.25 |
 
 ## Sheet List
-Use this table to determine how many of each type of sheet to buy. Standard sheet size is 31.75"x19.75", Large sheet size is A"xB".
+Use this table to determine how many of each type of sheet to buy. Standard sheet size is 31.75"x19.75", Large sheet size is 39.75"x27.75".
 
 | Thickness | Color | Size | Quantity (per maze) |
 | :-------: | :---: | :--: | :-----------------: |
